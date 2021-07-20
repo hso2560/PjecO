@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 57bdc66f45fca094baddcc0d9bea79d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3539469250117255687
+    second: WaterTower_0
+  - first:
+      213: 1114569474105030840
+    second: WaterTower_1
+  - first:
+      213: 7767764352898930489
+    second: WaterTower_2
+  - first:
+      213: 3989741755639503312
+    second: WaterTower_3
+  - first:
+      213: 5000986093082752529
+    second: WaterTower_4
+  - first:
+      213: -6000862716601423826
+    second: WaterTower_5
+  - first:
+      213: -1360900645927292214
+    second: WaterTower_0
+  - first:
+      213: 5723552665718585073
+    second: WaterTower_1
+  - first:
+      213: -1263059570885025803
+    second: WaterTower_2
+  - first:
+      213: 4999690259300112165
+    second: WaterTower_3
+  - first:
+      213: -2752404712396650876
+    second: WaterTower_4
+  - first:
+      213: 298208925714803604
+    second: WaterTower_5
+  - first:
+      213: -6940941659173507482
+    second: WaterTower_6
+  - first:
+      213: -2509877864420146679
+    second: WaterTower_7
+  - first:
+      213: 2759290526702113162
+    second: WaterTower_8
+  - first:
+      213: 6100122701392117022
+    second: WaterTower_9
+  - first:
+      213: 191673688094031312
+    second: WaterTower_10
+  - first:
+      213: 930330125027552091
+    second: WaterTower_11
+  - first:
+      213: 4255882077537761646
+    second: WaterTower_12
+  - first:
+      213: 8579351838982272116
+    second: WaterTower_13
+  - first:
+      213: -7340350526861289582
+    second: WaterTower_14
+  - first:
+      213: -3001120952547455608
+    second: WaterTower_15
+  - first:
+      213: 8312656690258087221
+    second: WaterTower_16
+  - first:
+      213: -9100966288940150872
+    second: WaterTower_17
+  - first:
+      213: 1107904864578717413
+    second: WaterTower_18
+  - first:
+      213: -634029614244422764
+    second: WaterTower_19
+  - first:
+      213: -4651978029422395479
+    second: WaterTower_20
+  - first:
+      213: -4638003400687878624
+    second: WaterTower_21
+  - first:
+      213: -9183619856276099753
+    second: WaterTower_22
+  - first:
+      213: 4176459979038480724
+    second: WaterTower_23
+  - first:
+      213: -7427720848303816944
+    second: WaterTower_24
+  - first:
+      213: -347979647893317875
+    second: WaterTower_25
+  - first:
+      213: 7400470864319361398
+    second: WaterTower_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterTower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 322
+        height: 309
+      alignment: 9
+      pivot: {x: 0.463818, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac277e8a21c1d1de0800000000000000
+      internalID: -1360900645927292214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTower_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 303
+        width: 287
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4656507, y: 0.4884361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99f6afcf86e5730800000000000000
+      internalID: 3989741755639503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTower_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 322
+        height: 303
+      alignment: 9
+      pivot: {x: 0.4666013, y: 0.47042248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f69d633eef0b30800000000000000
+      internalID: 4255882077537761646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
